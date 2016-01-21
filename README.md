@@ -1,3 +1,3 @@
 # JavaTest
 
-For strength my coding ability.
+For reinforcing my Java coding ability and test of Git
