@@ -1,3 +1,3 @@
 # JavaTest
 
-For strength my coding ability.
+Master version : For strength my coding ability.
